@@ -1,0 +1,49 @@
+.color {}
+
+.color-facebook {
+  color: rgb(59, 89, 152);
+}
+
+.color-flickr {
+  color: rgb(255, 0, 132);
+}
+
+.color-foursquare {
+  color: rgb(0, 114, 177);
+}
+
+.color-google {
+  color: rgb(221, 75, 57);
+}
+
+.color-instagram {
+  color: rgb(81, 127, 164);
+}
+
+.color-linkedin {
+  color: rgb(0, 123, 182);
+}
+
+.color-pinterest {
+  color: rgb(203, 32, 39);
+}
+
+.color-quora {
+  color: rgb(168, 36, 0);
+}
+
+.color-tumblr {
+  color: rgb(50, 80, 109);
+}
+
+.color-twitter {
+  color: rgb(0, 172, 237);
+}
+
+.color-vimeo {
+  color: rgb(170, 212, 80);
+}
+
+.color-youtube {
+  color: rgb(187, 0, 0);
+}
