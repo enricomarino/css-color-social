@@ -1,5 +1,9 @@
 .color {}
 
+.color-cocontest {
+  color: rgb(255, 200, 0);
+}
+
 .color-facebook {
   color: rgb(59, 89, 152);
 }
